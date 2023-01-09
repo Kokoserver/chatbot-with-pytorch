@@ -33,7 +33,7 @@ the following command to test it in the console.
 $ (venv) python chat.py
 ```
 
-run the python app.py to view the web interface for the bot
+Run the python app.py to view the web interface for the bot
 ```
 $ (venv) python app.py
 ```
